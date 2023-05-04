@@ -1,5 +1,5 @@
 
-# My Open Source Browser Extensions
+# NaveedMaq's Open Source Browser Extensions
 
 Repo for all my open source browser extensions
 
