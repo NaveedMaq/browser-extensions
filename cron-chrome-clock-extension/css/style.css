@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+body {
+    overflow: hidden;
+    background-color: #334252;
+    color: #fff;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    height: 95vh;
+    align-items: center;
+}
+
+#time {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 5em;
+    display: flex;
+
+}
+
+#time div {
+    min-width: 1.7em;
+    padding-left: 20px;
+}
